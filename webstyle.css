@@ -1,9 +1,8 @@
 .pl {
-  display: inline-block;
-  padding: 8px;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 32px 32px;
+  width: auto;
+  height: auto;
+  padding: 0;
+  background-size: contain;
   filter: invert(100%) sepia(90%) saturate(3000%) hue-rotate(203deg)
     brightness(100%);
 }
@@ -212,3 +211,81 @@
   .plYouTube { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/YouTube@2x.png"); }
   .plICloud { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/iCloud@2x.png"); }
 }
+.plAdd { width: 25px; height: 25px; }
+.plAirdrop { width: 24px; height: 21px; }
+.plAlarm { width: 26px; height: 25px; }
+.plAlbums { width: 27px; height: 24px; }
+.plAnchor { width: 25px; height: 26px; }
+.plArrowsIn, .plArrowsOut { width: 24px; height: 24px; }
+.plBebo, .plBlogger, .plCalculator, .plDollar,
+.plDribbble, .plEmailCircle, .plEvernote, .plFacebook,
+.plFlickr, .plGamesIOS, .plGooglePlus, .plLinkedIn,
+.plMySpace, .plNearMe, .plPicasa, .plPinterest,
+.plSignpost, .plSkype, .plTwitter, .plVimeo,
+.plWordpress, .plWorldTimes, .plYouTube {
+  width: 25px;
+  height: 25px;
+}
+.plBookmarks { width: 25px; height: 22px; }
+.plBoxClosed { width: 23px; height: 27px; }
+.plBrowsers, .plHappyFace, .plRecents { width: 24px; height: 24px; }
+.plChartUp { width: 25px; height: 21px; }
+.plContact { width: 25px; height: 25px; }
+.plDoc { width: 19px; height: 25px; }
+.plDownload, .plUpload { width: 19px; height: 27px; }
+.plDrawers { width: 24px; height: 24px; }
+.plDress { width: 20px; height: 32px; }
+.plFavorites { width: 27px; height: 26px; }
+.plFemale { width: 17px; height: 26px; }
+.plFencing { width: 35px; height: 29px; }
+.plFiles { width: 22px; height: 27px; }
+.plFlagSwallow { width: 18px; height: 27px; }
+.plFlag { width: 20px; height: 25px; }
+.plForwardArrow, .plReverseArrow { width: 25px; height: 24px; }
+.plHeadset { width: 26px; height: 28px; }
+.plIceCream { width: 13px; height: 31px; }
+.plIceLolly { width: 14px; height: 28px; }
+.plICloud { width: 35px; height: 22px; }
+.plInstagram { width: 25px; height: 25px; }
+.plInterfaceThreePanel { width: 26px; height: 22px; }
+.plJigsaw { width: 29px; height: 29px; }
+.plKeypad { width: 25px; height: 25px; }
+.plLastFM { width: 25px; height: 25px; }
+.plLayers { width: 27px; height: 22px; }
+.plLightBulb { width: 17px; height: 27px; }
+.plLocation { width: 26px; height: 25px; }
+.plMale { width: 22px; height: 22px; }
+.plMapPath { width: 26px; height: 30px; }
+.plMessages { width: 31px; height: 14px; }
+.plMobileSignal { width: 26px; height: 23px; }
+.plMore { width: 25px; height: 5px; }
+.plNetworkClosed { width: 25px; height: 23px; }
+.plNew { width: 23px; height: 23px; }
+.plNext, .plPrevious { width: 11px; height: 20px; }
+.plOfficeChair { width: 23px; height: 32px; }
+.plOppositeArrows { width: 24px; height: 23px; }
+.plOrangeHalf { width: 27px; height: 27px; }
+.plOrigami { width: 30px; height: 31px; }
+.plPalette { width: 30px; height: 26px; }
+.plPhotos { width: 27px; height: 22px; }
+.plPill { width: 29px; height: 14px; }
+.plPinwheel { width: 23px; height: 32px; }
+.plPrinter { width: 25px; height: 27px; }
+.plReading { width: 32px; height: 13px; }
+.plRedoArrow, .plUndoArrow { width: 26px; height: 17px; }
+.plRemove { width: 25px; height: 25px; }
+.plReply { width: 25px; height: 19px; }
+.plReset { width: 28px; height: 24px; }
+.plRuler { width: 26px; height: 26px; }
+.plSearch { width: 25px; height: 24px; }
+.plShuffle { width: 25px; height: 20px; }
+.plSmartphoneOutgoing { width: 24px; height: 28px; }
+.plStopwatch { width: 23px; height: 26px; }
+.plStroller { width: 27px; height: 27px; }
+.plSyncing { width: 31px; height: 24px; }
+.plTeaCup { width: 31px; height: 29px; }
+.plTimer { width: 27px; height: 27px; }
+.plTopCharts { width: 27px; height: 24px; }
+.plTrash { width: 19px; height: 25px; }
+.plUmbrella { width: 25px; height: 26px; }
+.plWineGlass { width: 15px; height: 27px; }
