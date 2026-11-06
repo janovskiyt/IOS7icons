@@ -4,7 +4,9 @@
   height: auto;
   padding: 0;
   background-size: contain;
-  filter: invert(100%) sepia(90%) saturate(3000%) hue-rotate(203deg)
+}
+.pl-blue {
+    filter: invert(100%) sepia(90%) saturate(3000%) hue-rotate(203deg)
     brightness(100%);
 }
 
