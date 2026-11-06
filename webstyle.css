@@ -1,0 +1,216 @@
+.pl {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  padding: 8px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 32px 32px;
+  filter: invert(100%) sepia(90%) saturate(3000%) hue-rotate(203deg)
+    brightness(100%);
+}
+
+.plAdd { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Add.png"); }
+.plAirdrop { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Airdrop.png"); }
+.plAlarm { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Alarm.png"); }
+.plAlbums { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Albums.png"); }
+.plAnchor { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Anchor.png"); }
+.plArrowsIn { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Arrows_In.png"); }
+.plArrowsOut { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Arrows_Out.png"); }
+.plBebo { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Bebo.png"); }
+.plBlogger { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Blogger.png"); }
+.plBookmarks { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Bookmarks.png"); }
+.plBoxClosed { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Box_Closed.png"); }
+.plBrowsers { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Browsers.png"); }
+.plCalculator { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Calculator.png"); }
+.plChartUp { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/ChartUp.png"); }
+.plContact { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Contact.png"); }
+.plDoc { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Doc.png"); }
+.plDollar { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Dollar.png"); }
+.plDownload { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Download.png"); }
+.plDrawers { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Drawers.png"); }
+.plDress { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Dress.png"); }
+.plDribbble { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Dribbble.png"); }
+.plEmailCircle { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Email_Circle.png"); }
+.plEvernote { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Evernote.png"); }
+.plFacebook { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Facebook.png"); }
+.plFavorites { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Favorites.png"); }
+.plFemale { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Female.png"); }
+.plFencing { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Fencing.png"); }
+.plFiles { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Files.png"); }
+.plFlag { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Flag.png"); }
+.plFlagSwallow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Flag_Swallow.png"); }
+.plFlickr { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Flickr.png"); }
+.plForwardArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Forward_Arrow.png"); }
+.plGamesIOS { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Games_iOS.png"); }
+.plGooglePlus { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Google+.png"); }
+.plHappyFace { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Happy_Face.png"); }
+.plHeadset { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Headset.png"); }
+.plIceCream { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Ice_Cream.png"); }
+.plIceLolly { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Ice_Lolly.png"); }
+.plInstagram { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Instagram.png"); }
+.plInterfaceThreePanel { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Interface_Three_Panel.png"); }
+.plJigsaw { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Jigsaw.png"); }
+.plKeypad { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Keypad.png"); }
+.plLastFM { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/LastFM.png"); }
+.plLayers { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Layers.png"); }
+.plLightBulb { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Light_Bulb.png"); }
+.plLinkedIn { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/LinkedIn.png"); }
+.plLocation { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Location.png"); }
+.plMale { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Male.png"); }
+.plMapPath { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Map_Path.png"); }
+.plMessages { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Messages.png"); }
+.plMobileSignal { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Mobile_Signal.png"); }
+.plMore { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/More.png"); }
+.plMySpace { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/MySpace.png"); }
+.plNearMe { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Near_Me.png"); }
+.plNetworkClosed { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Network_Closed.png"); }
+.plNew { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/New.png"); }
+.plNext { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Next.png"); }
+.plOfficeChair { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Office_Chair.png"); }
+.plOppositeArrows { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Opposite_Arrows.png"); }
+.plOrangeHalf { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Orange_Half.png"); }
+.plOrigami { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Origami.png"); }
+.plPalette { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Palette.png"); }
+.plPhotos { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Photos.png"); }
+.plPicasa { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Picasa.png"); }
+.plPill { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Pill.png"); }
+.plPinterest { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Pinterest.png"); }
+.plPinwheel { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Pinwheel.png"); }
+.plPrevious { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Previous.png"); }
+.plPrinter { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Printer.png"); }
+.plReading { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Reading.png"); }
+.plRecents { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Recents.png"); }
+.plReddit { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Reddit.png"); }
+.plRedoArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Redo_Arrow.png"); }
+.plRemove { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Remove.png"); }
+.plReply { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Reply.png"); }
+.plReset { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Reset.png"); }
+.plReverseArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Reverse_Arrow.png"); }
+.plRuler { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Ruler.png"); }
+.plSearch { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Search.png"); }
+.plShuffle { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Shuffle.png"); }
+.plSignpost { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Signpost.png"); }
+.plSkype { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Skype.png"); }
+.plSmartphoneOutgoing { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Smartphone_Outgoing.png"); }
+.plStopwatch { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Stopwatch.png"); }
+.plStroller { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Stroller.png"); }
+.plSyncing { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Syncing.png"); }
+.plTeaCup { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Tea_Cup.png"); }
+.plTimer { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Timer.png"); }
+.plTopCharts { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Top_Charts.png"); }
+.plTrash { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Trash.png"); }
+.plTwitter { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Twitter.png"); }
+.plUmbrella { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Umbrella.png"); }
+.plUndoArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Undo_Arrow.png"); }
+.plUpload { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Upload.png"); }
+.plVimeo { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Vimeo.png"); }
+.plWineGlass { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Wine_Glass.png"); }
+.plWordpress { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/Wordpress.png"); }
+.plWorldTimes { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/World_Times.png"); }
+.plYouTube { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/YouTube.png"); }
+.plICloud { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/1x/iCloud.png"); }
+
+/* Use the @2x icons on high-density displays. */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .plAdd { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Add@2x.png"); }
+  .plAirdrop { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Airdrop@2x.png"); }
+  .plAlarm { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Alarm@2x.png"); }
+  .plAlbums { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Albums@2x.png"); }
+  .plAnchor { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Anchor@2x.png"); }
+  .plArrowsIn { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Arrows_In@2x.png"); }
+  .plArrowsOut { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Arrows_Out@2x.png"); }
+  .plBebo { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Bebo@2x.png"); }
+  .plBlogger { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Blogger@2x.png"); }
+  .plBookmarks { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Bookmarks@2x.png"); }
+  .plBoxClosed { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Box_Closed@2x.png"); }
+  .plBrowsers { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Browsers@2x.png"); }
+  .plCalculator { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Calculator@2x.png"); }
+  .plChartUp { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Chart_Up@2x.png"); }
+  .plContact { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Contact@2x.png"); }
+  .plDoc { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Document@2x.png"); }
+  .plDollar { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Dollar@2x.png"); }
+  .plDownload { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Download@2x.png"); }
+  .plDrawers { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Drawers@2x.png"); }
+  .plDress { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Dress@2x.png"); }
+  .plDribbble { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Dribbble@2x.png"); }
+  .plEmailCircle { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Email_Circle@2x.png"); }
+  .plEvernote { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Evernote@2x.png"); }
+  .plFacebook { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Facebook@2x.png"); }
+  .plFavorites { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Favorites@2x.png"); }
+  .plFemale { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Female@2x.png"); }
+  .plFencing { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Fencing@2x.png"); }
+  .plFiles { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Files@2x.png"); }
+  .plFlag { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Flag@2x.png"); }
+  .plFlagSwallow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Flag_Swallow@2x.png"); }
+  .plFlickr { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Flickr@2x.png"); }
+  .plForwardArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Forward_Arrow@2x.png"); }
+  .plGamesIOS { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Games_iOS@2x.png"); }
+  .plGooglePlus { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Google+@2x.png"); }
+  .plHappyFace { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Happy_Face@2x.png"); }
+  .plHeadset { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Headset@2x.png"); }
+  .plIceCream { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Ice_Cream@2x.png"); }
+  .plIceLolly { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Ice_Lolly@2x.png"); }
+  .plInstagram { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Instagram@2x.png"); }
+  .plInterfaceThreePanel { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Interface_Three_Panel@2x.png"); }
+  .plJigsaw { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Jigsaw@2x.png"); }
+  .plKeypad { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Keypad@2x.png"); }
+  .plLastFM { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/LastFM@2x.png"); }
+  .plLayers { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Layers@2x.png"); }
+  .plLightBulb { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Light_Bulb@2x.png"); }
+  .plLinkedIn { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/LinkedIn@2x.png"); }
+  .plLocation { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Location@2x.png"); }
+  .plMale { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Male@2x.png"); }
+  .plMapPath { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Map_Path@2x.png"); }
+  .plMessages { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Messages@2x.png"); }
+  .plMobileSignal { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Mobile_Signal@2x.png"); }
+  .plMore { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/More@2x.png"); }
+  .plMySpace { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/MySpace@2x.png"); }
+  .plNearMe { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Near_Me@2x.png"); }
+  .plNetworkClosed { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Network_Closed@2x.png"); }
+  .plNew { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/New@2x.png"); }
+  .plNext { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Next@2x.png"); }
+  .plOfficeChair { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Office_Chair@2x.png"); }
+  .plOppositeArrows { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Opposite_Arrows@2x.png"); }
+  .plOrangeHalf { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Orange_Half@2x.png"); }
+  .plOrigami { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Origami@2x.png"); }
+  .plPalette { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Palette@2x.png"); }
+  .plPhotos { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Photos@2x.png"); }
+  .plPicasa { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Picasa@2x.png"); }
+  .plPill { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Pill@2x.png"); }
+  .plPinterest { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Pinterest@2x.png"); }
+  .plPinwheel { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Pinwheel@2x.png"); }
+  .plPrevious { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Previous@2x.png"); }
+  .plPrinter { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Printer@2x.png"); }
+  .plReading { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Reading@2x.png"); }
+  .plRecents { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Recents@2x.png"); }
+  .plReddit { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Reddit@2x.png"); }
+  .plRedoArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Redo_Arrow@2x.png"); }
+  .plRemove { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Remove@2x.png"); }
+  .plReply { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Reply@2x.png"); }
+  .plReset { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Reset@2x.png"); }
+  .plReverseArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Reverse_Arrow@2x.png"); }
+  .plRuler { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Ruler@2x.png"); }
+  .plSearch { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Search@2x.png"); }
+  .plShuffle { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Shuffle@2x.png"); }
+  .plSignpost { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Signpost@2x.png"); }
+  .plSkype { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Skype@2x.png"); }
+  .plSmartphoneOutgoing { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Smartphone_Outgoing@2x.png"); }
+  .plStopwatch { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Stopwatch@2x.png"); }
+  .plStroller { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Stroller@2x.png"); }
+  .plSyncing { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Syncing@2x.png"); }
+  .plTeaCup { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Tea_Cup@2x.png"); }
+  .plTimer { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Timer@2x.png"); }
+  .plTopCharts { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Top_Charts@2x.png"); }
+  .plTrash { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Trash@2x.png"); }
+  .plTwitter { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Twitter@2x.png"); }
+  .plUmbrella { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Umbrella@2x.png"); }
+  .plUndoArrow { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Undo_Arrow@2x.png"); }
+  .plUpload { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Upload@2x.png"); }
+  .plVimeo { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Vimeo@2x.png"); }
+  .plWineGlass { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Wine_Glass@2x.png"); }
+  .plWordpress { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/Wordpress@2x.png"); }
+  .plWorldTimes { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/World_Times@2x.png"); }
+  .plYouTube { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/YouTube@2x.png"); }
+  .plICloud { background-image: url("https://raw.githubusercontent.com/janovskiyt/IOS7icons/refs/heads/main/2x/iCloud@2x.png"); }
+}
